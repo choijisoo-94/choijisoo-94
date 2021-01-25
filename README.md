@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋 Have a happy day, today's music~  :star2:
 
-[![위대한 쇼맨 ost _ Rewrite the stars](http://img.youtube.com/vi/6GYK1pDz4Xc/0.jpg)](https://youtu.be/6GYK1pDz4Xc)
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//6GYK1pDz4Xc' frameborder='0' allowfullscreen></iframe></div>
 
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
