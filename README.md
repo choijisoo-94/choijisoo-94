@@ -1,8 +1,4 @@
-### Hi Everyone! 👋 Have a happy day, today's music~ 
-  <div align=left>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  </div>
-  
+### Hi Everyone! 👋 Have a happy day, today's music~  :star2:
 
 [![위대한 쇼맨 ost _ Rewrite the stars](http://img.youtube.com/vi/6GYK1pDz4Xc/0.jpg)](https://youtu.be/6GYK1pDz4Xc)
 
