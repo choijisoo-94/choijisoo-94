@@ -1,4 +1,4 @@
-### Hi Everyone! 👋 Have a happy day, today's music~  :star2:
+<center>### Hi Everyone! 👋 Have a happy day, today's music~  :star2:</center>
 
 [![위대한 쇼맨 ost - Rewrite the stars](https://img.youtube.com/vi/6GYK1pDz4Xc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6GYK1pDz4Xc)
 
