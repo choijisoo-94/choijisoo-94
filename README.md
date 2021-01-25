@@ -3,9 +3,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
   </div>
   
-<div align=center>
+
 [![위대한 쇼맨 ost _ Rewrite the stars](http://img.youtube.com/vi/6GYK1pDz4Xc/0.jpg)](https://youtu.be/6GYK1pDz4Xc)
-</div>
+
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
