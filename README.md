@@ -1,8 +1,5 @@
 ### Hi Everyone! 👋 Have a happy day, today's music~  :star2:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6GYK1pDz4Xc" frameborder="0" allowfullscreen></iframe>
-
- { % youtube https://www.youtube.com/watch?v=6GYK1pDz4Xc % }
 
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
