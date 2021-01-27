@@ -1,4 +1,4 @@
-## Hi Everyone! 👋 Have a happy day, today's music~ :star2:
+## Hi Everyone! 👋 Have a happy day, today's music~ :musical_note:
 
 [![아이유IU - above the time](https://img.youtube.com/vi/GFAGNbyBKbc/sddefault.jpg)](https://www.youtube.com/watch?v=GFAGNbyBKbc)
 
