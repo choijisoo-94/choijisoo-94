@@ -1,6 +1,6 @@
 ## Hi Everyone! 👋 Have a happy day, today's music~ :star2:
 
-[![아이유IU - above the time](https://img.youtube.com/vi/R3Fwdnij49o/sddefault.jpg)](https://www.youtube.com/watch?v=R3Fwdnij49o)
+[![아이유IU - above the time](https://img.youtube.com/vi/GFAGNbyBKbc/sddefault.jpg)](https://www.youtube.com/watch?v=GFAGNbyBKbc)
 
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
