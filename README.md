@@ -1,4 +1,4 @@
-## Hi Everyone! 👋 Have a happy day, today's music~ :musical_note:
+## Hi Everyone! 👋 Have a happy day, today's music and wise saying :musical_note:
 
 
 [![하현우 - 돌덩이](https://img.youtube.com/vi/4qOT_Aw9IgM/sddefault.jpg)](https://www.youtube.com/watch?4qOT_Aw9IgM)
