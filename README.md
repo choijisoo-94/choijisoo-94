@@ -1,7 +1,7 @@
 ## Hi Everyone! 👋 Have a happy day, today's music and wise saying :musical_note:
 
 
-[![하현우 - 돌덩이](https://img.youtube.com/vi/4qOT_Aw9IgM/sddefault.jpg)](https://www.youtube.com/watch?4qOT_Aw9IgM)
+[![On My Way[Alan Walker] - violin and flute](https://img.youtube.com/vi/tjHPx2WTjJw/sddefault.jpg)](https://www.youtube.com/watch?tjHPx2WTjJw)
 
 
 ![acd1b625a6e93e266e9145e7f914cdf7](https://user-images.githubusercontent.com/73863771/106607928-32228900-65a7-11eb-9559-c629550697da.png)
