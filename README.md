@@ -1,4 +1,4 @@
-## Hi Everyone! 👋 Have a happy day, today's music and wise saying :musical_note:
+## Hi Everyone! 👋 Have a happy day, today's music :musical_note:
 
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/kdzdqBfNDVc/sddefault.jpg)](https://www.youtube.com/watch?kdzdqBfNDVc)-->
