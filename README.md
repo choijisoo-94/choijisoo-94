@@ -4,8 +4,6 @@
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/kdzdqBfNDVc/sddefault.jpg)](https://www.youtube.com/watch?kdzdqBfNDVc)-->
 [![백현 - 널 사랑하고 있어](http://img.youtube.com/vi/kdzdqBfNDVc/sddefault.jpg)](https://youtu.be/kdzdqBfNDVc?t=0s) 
 
-![acd1b625a6e93e266e9145e7f914cdf7](https://user-images.githubusercontent.com/73863771/106607928-32228900-65a7-11eb-9559-c629550697da.png)
-
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
