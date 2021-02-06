@@ -1,7 +1,7 @@
 ## Hi Everyone! 👋 Have a happy day, today's music and wise saying :musical_note:
 
 
-[![백현 - 널 사랑하고 있어]](https://img.youtube.com/vi/kdzdqBfNDVc/sddefault.jpg)](https://www.youtube.com/watch?kdzdqBfNDVc)
+![백현 - 널 사랑하고 있어](https://img.youtube.com/vi/kdzdqBfNDVc/sddefault.jpg)](https://www.youtube.com/watch?kdzdqBfNDVc)
 
 
 ![acd1b625a6e93e266e9145e7f914cdf7](https://user-images.githubusercontent.com/73863771/106607928-32228900-65a7-11eb-9559-c629550697da.png)
