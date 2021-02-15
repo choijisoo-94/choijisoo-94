@@ -2,7 +2,7 @@
 
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![봄날 -](http://img.youtube.com/vi/pjqUCtVHf9k/sddefault.jpg)](https://youtu.be/pjqUCtVHf9k?t=0s) 
+[![가리워진 ](http://img.youtube.com/vi/d83pUgKLR0U/sddefault.jpg)](https://youtu.be/d83pUgKLR0U?t=0s) 
 
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
