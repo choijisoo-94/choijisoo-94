@@ -1,4 +1,4 @@
-## 3.1절 - 그날의 함성을 기억합니다.
+## :sparkles: 3.1절 - 그날의 함성을 기억합니다.
 
 ![화면 캡처 2021-03-01 154727](https://user-images.githubusercontent.com/73863771/109461451-7ff6b800-7aa5-11eb-8e21-3b2ef7113296.png)
 
