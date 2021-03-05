@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![테일러 스위프트 - willow](http://img.youtube.com/vi/oLVgwsevkco/sddefault.jpg)](https://youtu.be/oLVgwsevkco?t=0s) 
+[![Ariana Grande - pov](http://img.youtube.com/vi/4aQmTTY6GFc/sddefault.jpg)](https://youtu.be/4aQmTTY6GFc?t=0s) 
 
 
 
