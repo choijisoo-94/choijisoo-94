@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[!bulow - own me](http://img.youtube.com/vi/_xu2q2NTWhA/sddefault.jpg)](https://youtu.be/https://youtu.be/_xu2q2NTWhA?t=0s) 
+[![bulow - Own me](http://img.youtube.com/vi/Mhq1NJtyrmQ/sddefault.jpg)](https://youtu.be/Mhq1NJtyrmQ?t=0s) 
 
 
 
