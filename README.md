@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Dua Lipa - Break My Heart](http://img.youtube.com/vi/FbzNqv4maqo/sddefault.jpg)](https://youtu.be/FbzNqv4maqo?t=0s) 
+[![ROSE - On the ground](http://img.youtube.com/vi/CKZvWhCqx1s/sddefault.jpg)](https://youtu.be/CKZvWhCqx1s?t=0s) 
 
 
 
