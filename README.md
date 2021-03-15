@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Charlotte Lawrence - Joke’s On You (acoustic)](http://img.youtube.com/vi/AZ9Vbz-jkx8/sddefault.jpg)](https://youtu.be/AZ9Vbz-jkx8?t=0s) 
+[![소유 - 잘자요 내사랑](http://img.youtube.com/vi/6p9lFYH2GEw/sddefault.jpg)](https://youtu.be/6p9lFYH2GEw?t=0s) 
 
 
 
