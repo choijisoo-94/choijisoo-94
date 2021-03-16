@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![소유 - 잘자요 내사랑](http://img.youtube.com/vi/6p9lFYH2GEw/sddefault.jpg)](https://youtu.be/6p9lFYH2GEw?t=0s) 
+[![yellow heart](http://img.youtube.com/vi/gIowzVds_tE/sddefault.jpg)](https://youtu.be/gIowzVds_tE?t=0s) 
 
 
 
