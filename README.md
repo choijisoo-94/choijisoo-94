@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![yellow heart](http://img.youtube.com/vi/gIowzVds_tE/sddefault.jpg)](https://youtu.be/gIowzVds_tE?t=0s) 
+[![디에이드 - 잊혀지는 것](http://img.youtube.com/vi/1Ql2hBuarHg/sddefault.jpg)](https://youtu.be/1Ql2hBuarHg?t=0s) 
 
 
 
