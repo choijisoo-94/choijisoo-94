@@ -1,7 +1,7 @@
 ## :sparkles: Hi! Everyone~ Welcome to my GitHub!
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![임창정 - 되풀이](http://img.youtube.com/vi/0aZGVZHZz9Q/sddefault.jpg)](https://youtu.be/0aZGVZHZz9Q?t=0s) 
+[![ILIRA - Fuck it, I love it!](http://img.youtube.com/vi/C4gg_aCXY4M/sddefault.jpg)](https://youtu.be/C4gg_aCXY4M?t=0s) 
 
 <!--
 **choijisoo-94/choijisoo-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
