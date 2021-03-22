@@ -4,7 +4,7 @@
 [![Valley - Like 1999 ](http://img.youtube.com/vi/oAq0h8VQJWs/sddefault.jpg)](https://youtu.be/oAq0h8VQJWs?t=0s) 
 
 
-## Technical stack experienced 💡
+## 💡 Technical stack experienced 
 
 <br>
 
