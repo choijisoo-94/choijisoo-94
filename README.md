@@ -3,8 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![IU The Sea of a Kid & I ](http://img.youtube.com/vi/LSkdINo1GXw/sddefault.jpg)](https://youtu.be/LSkdINo1GXw?t=0s) 
-
+[![IU The Sea of a Kid & I ](http://img.youtube.com/vi/c5zbjL2V95A/sddefault.jpg)](https://youtu.be/c5zbjL2V95A?t=0s) 
 
 ## 💡 Technical stack experienced 
 
