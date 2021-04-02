@@ -2,8 +2,8 @@
 
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
-<!--[백현 - 널 사랑하고 있어](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![MNEK - Phone ](http://img.youtube.com/vi/paK5ym_mEUE/sddefault.jpg)](https://youtu.be/paK5ym_mEUE?t=0s) 
+<!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
+[![MNEK - phone](http://img.youtube.com/vi/paK5ym_mEUE/sddefault.jpg)](https://youtu.be/paK5ym_mEUE?t=0s) 
 
 ## 💡 Technical stack experienced 
 
