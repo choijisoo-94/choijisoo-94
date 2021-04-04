@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Unlike Pluto - Everything Black](http://img.youtube.com/vi/keeVus2Isk4/sddefault.jpg)](https://youtu.be/keeVus2Isk4?t=0s) 
+[![Shawn Wasabi(숀 와사비) - HOME RUN (feat. raychel jay)](http://img.youtube.com/vi/c1KP-68gwlc/sddefault.jpg)](https://youtu.be/c1KP-68gwlc?t=0s) 
 
 ## 💡 Technical stack experienced 
 
