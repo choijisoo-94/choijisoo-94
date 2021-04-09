@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Shawn Wasabi(숀 와사비) - HOME RUN (feat. raychel jay)](http://img.youtube.com/vi/c1KP-68gwlc/sddefault.jpg)](https://youtu.be/c1KP-68gwlc?t=0s) 
+[![Sam Smith (샘 스미스) - To Die For](http://img.youtube.com/vi/kHp6qLsyu-U/sddefault.jpg)](https://youtu.be/kHp6qLsyu-U?t=0s) 
 
 ## 💡 Technical stack experienced 
 
