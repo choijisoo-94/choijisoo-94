@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Rachel Platten (레이첼 플래튼) - Fight Song ](http://img.youtube.com/vi/z-898BNdigs/sddefault.jpg)](https://youtu.be/z-898BNdigs?t=0s) 
+[![Rewrite The Stars](http://img.youtube.com/vi/yO28Z5_Eyls/sddefault.jpg)](https://youtu.be/yO28Z5_Eyls?t=0s) 
 
 
 ## 💡 Technical stack experienced 
