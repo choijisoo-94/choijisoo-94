@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Rewrite The Stars](http://img.youtube.com/vi/yO28Z5_Eyls/sddefault.jpg)](https://youtu.be/yO28Z5_Eyls?t=0s) 
+[![Alan Walker - Lily](http://img.youtube.com/vi/hdonNbzHHXE/sddefault.jpg)](https://youtu.be/hdonNbzHHXE?t=0s) 
 
 
 ## 💡 Technical stack experienced 
