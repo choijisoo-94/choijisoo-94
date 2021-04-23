@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Tom Grennan - Little Bit of Love ](http://img.youtube.com/vi/RFxUaK7VrHY/sddefault.jpg)](https://youtu.be/RFxUaK7VrHY?t=0s) 
+[![RINI – My Favourite Clothes](http://img.youtube.com/vi/3XM023yz_pI/sddefault.jpg)](https://youtu.be/3XM023yz_pI?t=0s) 
 
 ## 💡 Technical stack experienced 
 
