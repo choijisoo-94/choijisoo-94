@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Justin Bieber - Peaches](http://img.youtube.com/vi/tQ0yjYUFKAE/sddefault.jpg)](https://youtu.be/tQ0yjYUFKAE?t=0s) 
+[![Surf Mesa, Madison Beer - Carried Away](http://img.youtube.com/vi/ww0F6PcFnDg/sddefault.jpg)](https://youtu.be/ww0F6PcFnDg?t=0s) 
 
 ## 💡 Technical stack experienced 
 
