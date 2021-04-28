@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![happy](http://img.youtube.com/vi/ZbZSe6N_BXs/sddefault.jpg)](https://youtu.be/ZbZSe6N_BXs?t=0s) 
+[![오존 - ](http://img.youtube.com/vi/IPpM_1qosdM/sddefault.jpg)](https://youtu.be/IPpM_1qosdM?t=0s) 
 
 ## 💡 Technical stack experienced 
 
