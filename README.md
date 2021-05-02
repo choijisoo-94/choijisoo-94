@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![펀치 - 밤이 되니까](http://img.youtube.com/vi/exCn38p8bGs/sddefault.jpg)](https://youtu.be/exCn38p8bGs?t=0s) 
+[![태연 - rain](http://img.youtube.com/vi/fQjPvb3cYMA/sddefault.jpg)](https://youtu.be/fQjPvb3cYMA?t=0s) 
 
 ## 💡 Technical stack experienced 
 
