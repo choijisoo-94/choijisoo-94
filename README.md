@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![에픽하이(Epik high) - 우산 (Feat. 윤하)
-](http://img.youtube.com/vi/NIPtyAKxlRs/sddefault.jpg)](https://youtu.be/NIPtyAKxlRs?t=0s) 
+[![헤이즈 (Heize) - Jenga (Feat. Gaeko)
+](http://img.youtube.com/vi/uw_HR9jIJww/sddefault.jpg)](https://youtu.be/uw_HR9jIJww?t=0s) 
 
 ## 💡 Technical stack experienced 
 
