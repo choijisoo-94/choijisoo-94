@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![헤이즈 (Heize) - Jenga (Feat. Gaeko)
-](http://img.youtube.com/vi/uw_HR9jIJww/sddefault.jpg)](https://youtu.be/uw_HR9jIJww?t=0s) 
+[![소유(SOYOU) X 백현(BAEKHYUN) - 비가 와(RAIN)
+](http://img.youtube.com/vi/6rj3h-cEqgg/sddefault.jpg)](https://youtu.be/6rj3h-cEqgg?t=0s) 
 
 ## 💡 Technical stack experienced 
 
