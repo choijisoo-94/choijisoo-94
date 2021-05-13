@@ -3,9 +3,9 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![소유(SOYOU) X 백현(BAEKHYUN) - 비가 와(RAIN)
-](http://img.youtube.com/vi/6rj3h-cEqgg/sddefault.jpg)](https://youtu.be/6rj3h-cEqgg?t=0s) 
-
+[![엠씨더맥스 (M.C the MAX) – 잠시만 안녕
+](http://img.youtube.com/vi/2qIe073Mn2A/sddefault.jpg)](https://youtu.be/2qIe073Mn2A?t=0s) 
+https://youtu.be/2qIe073Mn2A
 ## 💡 Technical stack experienced 
 
 <br>
