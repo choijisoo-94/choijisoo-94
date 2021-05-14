@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![엠씨더맥스 (M.C the MAX) – 잠시만 안녕
-](http://img.youtube.com/vi/2qIe073Mn2A/sddefault.jpg)](https://youtu.be/2qIe073Mn2A?t=0s) 
+[![엠씨더맥스 (M.C the MAX) – 어디에도
+](http://img.youtube.com/vi/OBif6i-qvuA/sddefault.jpg)](https://youtu.be/OBif6i-qvuA?t=0s) 
 
 ## 💡 Technical stack experienced 
 
