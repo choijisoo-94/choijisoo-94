@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![엠씨더맥스 (M.C the MAX) – 어디에도
-](http://img.youtube.com/vi/OBif6i-qvuA/sddefault.jpg)](https://youtu.be/OBif6i-qvuA?t=0s) 
+[![SG 워너비 - 내 사람: Partner For Life
+](http://img.youtube.com/vi/-ismirSfn_w/sddefault.jpg)](https://youtu.be/-ismirSfn_w?t=0s) 
 
 ## 💡 Technical stack experienced 
 
