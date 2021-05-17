@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![SG 워너비 - 내 사람: Partner For Life
-](http://img.youtube.com/vi/-ismirSfn_w/sddefault.jpg)](https://youtu.be/-ismirSfn_w?t=0s) 
+[![ 마마무(MAMAMOO)의 킬링보이스를 라이브로!
+](http://img.youtube.com/vi/WvkTcNQsxzc/sddefault.jpg)](https://youtu.be/WvkTcNQsxzc?t=0s) 
 
 ## 💡 Technical stack experienced 
 
