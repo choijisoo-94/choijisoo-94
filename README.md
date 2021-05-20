@@ -3,9 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![Loco (로꼬), Punch (펀치) - Say Yes
-](http://img.youtube.com/vi/5UQzXbizT-s/sddefault.jpg)](https://youtu.be/5UQzXbizT-s?t=0s) 
-
+[![헤이즈 (Heize) - 헤픈 우연 (HAPPEN)
+](http://img.youtube.com/vi/8GPAW4dMxsY/sddefault.jpg)](https://youtu.be/8GPAW4dMxsY?t=0s) 
 ## 💡 Technical stack experienced 
 
 <br>
