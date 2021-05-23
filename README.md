@@ -3,9 +3,9 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![성시경 - 너를 사랑했던 시간
-](http://img.youtube.com/vi/4tyoGDpC5qA/sddefault.jpg)](https://youtu.be/4tyoGDpC5qA?t=0s) 
-https://youtu.be/4tyoGDpC5qA
+[![아이유 - 사랑이 잘
+](http://img.youtube.com/vi/dMn509ddAkc/sddefault.jpg)](https://youtu.be/dMn509ddAkc?t=0s) 
+
 
 ## 💡 Technical stack experienced 
 
