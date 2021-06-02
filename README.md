@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![헤이즈 -미안해 널 사랑해
-](http://img.youtube.com/vi/TcHRu4jaPBM/sddefault.jpg)](https://youtu.be/TcHRu4jaPBM?t=0s) 
+[![LOCO - CAN'T SLEEP(FEAT.IU)
+](http://img.youtube.com/vi/ry0zLOVSMac/sddefault.jpg)](https://youtu.be/ry0zLOVSMac?t=0s) 
 
 ## 💡 Technical stack experienced 
 
