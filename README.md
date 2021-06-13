@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![결 - 똑같은 만남 다른 사람 
-](http://img.youtube.com/vi/BfOLY2r0GAI/sddefault.jpg)](https://youtu.be/BfOLY2r0GAI?t=0s) 
+[![태연- 만약에
+](http://img.youtube.com/vi/jJKHTJy_eek/sddefault.jpg)](https://youtu.be/jJKHTJy_eek?t=0s) 
 
 ## 💡 Technical stack experienced 
 
