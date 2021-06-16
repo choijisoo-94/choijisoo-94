@@ -3,7 +3,7 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![태연- 만약에 
+[![태연- 만약에
 ](http://img.youtube.com/vi/jJKHTJy_eek/sddefault.jpg)](https://youtu.be/jJKHTJy_eek?t=0s) 
 
 ## 💡 Technical stack experienced 
