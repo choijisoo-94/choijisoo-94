@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![이무진 - 비와 당신
-](http://img.youtube.com/vi/edbIsqPlJ8w/sddefault.jpg)](https://youtu.be/edbIsqPlJ8w?t=0s) 
+[![신용재 - 첫 줄
+](http://img.youtube.com/vi/c6cPqBE87cs/sddefault.jpg)](https://youtu.be/c6cPqBE87cs?t=0s) 
 
 ## 💡 Technical stack experienced 
 
