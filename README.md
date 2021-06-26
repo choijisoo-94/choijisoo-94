@@ -3,9 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![신용재 - 첫줄
-](http://img.youtube.com/vi/c6cPqBE87cs/sddefault.jpg)](https://youtu.be/c6cPqBE87cs?t=0s) 
-
+[![크루엘라 ost 모음집
+](http://img.youtube.com/vi/eHCuYTxDXw0/sddefault.jpg)](https://youtu.be/eHCuYTxDXw0?t=0s) 
 ## 💡 Technical stack experienced 
 
 <br>
