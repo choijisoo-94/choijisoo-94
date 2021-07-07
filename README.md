@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![장범준 - 나는 너 좋아 
-](http://img.youtube.com/vi/Hq4xJMiJNb0/sddefault.jpg)](https://youtu.be/Hq4xJMiJNb0?t=0s) 
+[![백예린 노래모음 
+](http://img.youtube.com/vi/XA7_bP6isv0/sddefault.jpg)](https://youtu.be/XA7_bP6isv0?t=0s) 
 
 
 ## 💡 Technical stack experienced 
