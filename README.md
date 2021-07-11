@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![노을 - 시계추
-](http://img.youtube.com/vi/g81Vsviu2cI/sddefault.jpg)](https://youtu.be/g81Vsviu2cI?t=0s) 
+[![백예린 - 노래모음
+](http://img.youtube.com/vi/efhkkO3A9sY/sddefault.jpg)](https://youtu.be/efhkkO3A9sY?t=0s) 
 
 
 ## 💡 Technical stack experienced 
