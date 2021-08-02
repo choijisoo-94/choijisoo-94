@@ -3,9 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![온유&이수현 - 깊은 밤을 날아서 
-](http://img.youtube.com/vi/rU_WL1NQiBQ/sddefault.jpg)](https://youtu.be/rU_WL1NQiBQ?t=0s) 
-
+[![심가을 - 사랑이란 건 아픔만 주고
+](http://img.youtube.com/vi/LDNgFMlsGlw/sddefault.jpg)](https://youtu.be/LDNgFMlsGlw?t=0s) 
 ## 💡 Technical stack experienced 
 
 <br>
