@@ -3,8 +3,9 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![심가을 - 사랑이란 건 아픔만 주고
-](http://img.youtube.com/vi/LDNgFMlsGlw/sddefault.jpg)](https://youtu.be/LDNgFMlsGlw?t=0s) 
+[![산들 - 그대 한 사람
+](http://img.youtube.com/vi/tnvY45pAD1Q/sddefault.jpg)](https://youtu.be/tnvY45pAD1Q?t=0s) 
+
 ## 💡 Technical stack experienced 
 
 <br>
