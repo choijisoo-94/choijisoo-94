@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![산들 - 그대 한 사람
-](http://img.youtube.com/vi/tnvY45pAD1Q/sddefault.jpg)](https://youtu.be/tnvY45pAD1Q?t=0s) 
+[![헤이즈 - 비가 오는 날엔(2021)
+](http://img.youtube.com/vi/wq4HlLqYyRY/sddefault.jpg)](https://youtu.be/wq4HlLqYyRY?t=0s) 
 
 ## 💡 Technical stack experienced 
 
