@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![펀치, 메드클라운 - 보고 싶단 말이야 
-](http://img.youtube.com/vi/v5PQYSBHMa4/sddefault.jpg)](https://youtu.be/v5PQYSBHMa4?t=0s) 
+[![이수현 - 내가 너의 곁에 잠시 살았다는 걸
+](http://img.youtube.com/vi/7uEA6WhW-tg/sddefault.jpg)](https://youtu.be/7uEA6WhW-tg?t=0s) 
 
 ## 💡 Technical stack experienced 
 
