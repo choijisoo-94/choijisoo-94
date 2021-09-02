@@ -3,8 +3,8 @@
 ## :sparkles: Welcome to JISOO's GITHUB! Enjoy music every day! 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![이수현 - 내가 너의 곁에 잠시 살았다는 걸 
-](http://img.youtube.com/vi/7uEA6WhW-tg/sddefault.jpg)](https://youtu.be/7uEA6WhW-tg?t=0s) 
+[![규현 - 별이 빛나는 밤에
+](http://img.youtube.com/vi/a6GYUMWprQE/sddefault.jpg)](https://youtu.be/a6GYUMWprQE?t=0s) 
 
 ## 💡 Technical stack experienced 
 
