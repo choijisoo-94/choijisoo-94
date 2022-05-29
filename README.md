@@ -4,8 +4,8 @@
 
 
 <!--[dddd](https://img.youtube.com/vi/r-SaR5i7iQI/sddefault.jpg)](https://www.youtube.com/watch?r-SaR5i7iQI)-->
-[![펀치 - 거짓말처럼
-](http://img.youtube.com/vi/eS_2kwSdShg/sddefault.jpg)](https://youtu.be/eS_2kwSdShg?t=0s) 
+[![펀치 - Bye Bye
+](http://img.youtube.com/vi/o-wZ2kYbR0c/sddefault.jpg)](https://youtu.be/o-wZ2kYbR0c?t=0s) 
 
 ## 💡 Technical stack experienced 
 
